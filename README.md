@@ -7,13 +7,14 @@ and go inside the bank to transact business. Inside the bank, the waiting area i
 sufficient to accommodate all customers, and there is one teller who is as
 efficient as the drive-in teller in terms of serving the customers. The timebetween-arrivals and service-time distributions are given below
 
-Time between arrivals(minutes) | probability |	Cumulative probability |	ranges
-0                                	0.09	              0.09	              01-09
-1                                	0.17	              0.26              	10-26
-2                               	0.27              	0.53	              27-53
-3                               	0.20	              0.73	              54-73
-4                               	0.15	              0.88               	74-88
-5	                                0.12	              1.00	              89-00
+|Time between arrivals(minutes)   |probability |Cumulative probability|	ranges
+------------------------------------------------------------------------------
+|0                                |0.09	       |0.09	                |01-09
+|1                                |0.17	       |0.26                	|10-26
+|2                               	|0.27        |0.53	                |27-53
+|3                               	|0.20	       |0.73	                |54-73
+|4                               	|0.15	       |0.88               	  |74-88
+|5	                              |0.12	       |1.00	                |89-00
 
 
 The problem is to estimate the system measures of performance in terms of the
